@@ -1,0 +1,25 @@
+{
+  "name": "elytrax-v1-dm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsanjeev07/ELYTRAx-V1-DM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tsanjeev07/ELYTRAx-V1-DM/issues"
+  },
+  "homepage": "https://github.com/tsanjeev07/ELYTRAx-V1-DM#readme",
+  "dependencies": {
+    "discord.js": "^14.28.1",
+    "dotenv": "^18.0.10"
+  }
+}
